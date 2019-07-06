@@ -3,7 +3,7 @@ amazon_tracker is a simple web scraper did by me that scrapes every x minutes th
 --------------------------
 DESCRIPTION :mega:
 --------------------------
-It was develop with bs4,requests,time and smtplib libraries. Opening it, you can see some variables:
+It was develop with bs4, requests, time and smtplib libraries. Opening it, you can see some variables:
   - headers = It's your browser setting. You have to insert YOUR browser header. You can find it typing 'my user agent' on internet.
   - URLS = It's a list that contains the urls of your tracked items.
   - dream_price = It's a list that contains the dream prices of i-th element in URLS.ù
