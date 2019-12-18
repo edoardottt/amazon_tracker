@@ -1,12 +1,12 @@
 # amazon_tracker
-amazon_tracker is a simple web scraper did by me that scrapes every x minutes the prices of n items and send an e-mail if the price fall down over p(price selected by you)
+amazon_tracker is a simple web scraper that scrapes every x minutes the price of n items and sends an e-mail if the price falls down over p(price selected by you)
 --------------------------
 DESCRIPTION :mega:
 --------------------------
 It was develop with bs4, requests, time and smtplib libraries. Opening it, you can see some variables:
   - headers = It's your browser setting. You have to insert YOUR browser header. You can find it typing 'my user agent' on internet.
   - URLS = It's a list that contains the urls of your tracked items.
-  - dream_price = It's a list that contains the dream prices of i-th element in URLS.ù
+  - dream_price = It's a list that contains the dream price of i-th element in URLS.
   - from_email = It's the e-mail that sends the notification.
   - to_email = It's the e-mail that receive the notification.
   - from_password = It's the password needed for the from_email.
