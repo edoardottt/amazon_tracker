@@ -2,7 +2,7 @@
 
 #### amazon_tracker is a simple web scraper that scrapes every x minutes the price of n items and sends an e-mail if the price falls down over p(price selected by you)
 
-DESCRIPTION :mega:
+Description :mega:
 ------
 
 It was develop with bs4, requests, time and smtplib libraries. Opening it, you can see some variables:
@@ -15,13 +15,13 @@ It was develop with bs4, requests, time and smtplib libraries. Opening it, you c
   - minutes = How many minutes between a check and the next.
   IT WORKS ONLY WITH GMAIL ACCOUNTS
 
-DOWNLOAD :satellite:
+Download :satellite:
 ------
 
 - `git clone https://github.com/edoardottt/amazon_tracker.git`
 
 
-USAGE :computer:
+Usage :computer:
 ------
 
 1) Download all the repo
