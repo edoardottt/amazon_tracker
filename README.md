@@ -6,20 +6,20 @@ Description :mega:
 ------
 
 It was develop with bs4, requests, time and smtplib libraries. Opening it, you can see some variables:
-  - headers = It's your browser setting. You have to insert YOUR browser header. You can find it typing 'my user agent' on internet.
-  - URLS = It's a list that contains the urls of your tracked items.
-  - dream_price = It's a list that contains the dream price of i-th element in URLS.
-  - from_email = It's the e-mail that sends the notification.
-  - to_email = It's the e-mail that receive the notification.
-  - from_password = It's the password needed for the from_email.
-  - minutes = How many minutes between a check and the next.
-  IT WORKS ONLY WITH GMAIL ACCOUNTS
+  - `headers` = It's your browser setting. You have to insert YOUR browser header. You can find it typing 'my user agent' on internet.
+  - `URLS` = It's a list that contains the urls of your tracked items.
+  - `dream_price` = It's a list that contains the dream price of i-th element in URLS.
+  - `from_email` = It's the e-mail that sends the notification.
+  - `to_email` = It's the e-mail that receive the notification.
+  - `from_password` = It's the password needed for the from_email.
+  - `minutes` = How many minutes between a check and the next.
+  
+IT WORKS ONLY WITH GMAIL ACCOUNTS
 
 Download :satellite:
 ------
 
-- `git clone https://github.com/edoardottt/amazon_tracker.git`
-
+- `git clone https://github.com/edoardottt/amazon_tracker.git
 
 Usage :computer:
 ------
