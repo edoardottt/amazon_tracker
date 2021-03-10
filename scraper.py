@@ -10,7 +10,7 @@ import time
 
 headers = {"User-Agent": 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'}
 
-URLS = ['https://www.amazon.it/Sony-Fotocamera-Mirrorless-Full-Frame-Intercambiabile/dp/B00FWUDE9W','https://www.amazon.it/dp/B01MTOBPGE/ref=sspa_dk_detail_1?psc=1&pd_rd_i=B01MTOBPGE&pd_rd_w=q6oNd&pf_rd_p=f18f64e6-4530-4750-a84e-b64feeada1ae&pd_rd_wg=BE4jL&pf_rd_r=4NJ77SH2NXYBFH67171N&pd_rd_r=60b79375-9ff8-11e9-af60-adc40eafed34']
+URLS = ['https://www.amazon.it/Sony-Fotocamera-Mirrorless-Full-Frame-Intercambiabile/dp/B00FWUDE9W','https://www.amazon.it/dp/B01MTOBPGE']
 
 dream_price = [1700,80]
 from_email = 'THE EMAIL THAT SENDS THE MESSAGE'
