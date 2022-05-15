@@ -1,6 +1,6 @@
 # amazon_tracker
 
-simple web scraper that scrapes every x minutes the price of n items and sends an e-mail if the price falls down over p(price selected by you)
+simple web scraper that scrapes every x minutes the price of n items and sends an e-mail if the price falls down over p (a price selected by you)
 
 Description :mega:
 ------
