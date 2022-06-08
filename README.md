@@ -14,7 +14,7 @@ It has been developed using bs4, requests, time and smtplib libraries. Opening i
   - `from_password` = It's the password needed for the from_email.
   - `minutes` = How many minutes between a check and the next.
   
-! IT WORKS ONLY WITH GMAIL ACCOUNTS !
+*It works only with GMail accounts*
 
 Download :satellite:
 ------
@@ -35,8 +35,6 @@ Usage :computer:
 4) If you haven't did already, go to https://myaccount.google.com/lesssecureapps and allow it (It's mandatory).
 
 5) Execute the scraper.py file
-:zap::zap::zap:
-
 -------
 
 [edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
