@@ -26,15 +26,13 @@ git clone https://github.com/edoardottt/amazon_tracker.git
 Usage :computer:
 ------
 
-1) Download all the repo
+1) Type on your browser 'my user agent' and paste the result in the header variable content.
 
-2) Type on your browser 'my user agent' and paste the result in the header variable content.
+2) Change all the variables you need (from_email, from_password, to_email, URLS, dream_price and minutes). 
 
-3) Change all the variables you need (from_email, from_password, to_email, URLS, dream_price and minutes). 
+3) If you haven't did already, go to https://myaccount.google.com/lesssecureapps and allow it (It's mandatory).
 
-4) If you haven't did already, go to https://myaccount.google.com/lesssecureapps and allow it (It's mandatory).
-
-5) Execute the scraper.py file
+4) Execute the scraper.py file
 -------
 
 [edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
